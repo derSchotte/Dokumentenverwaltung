@@ -1,4 +1,8 @@
 ﻿namespace Dokumentenverwaltung.Klassen {
+    // Entwickeln Sie eine Klasse für den Ablageort mit folgenden
+    // Informationen:
+    // Stockwerk, Raumnummer, Regalnummer, Fach
+
     internal class Ablageort {
         int stockwerk;
         int raumNummer;

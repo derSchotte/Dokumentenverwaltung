@@ -1,7 +1,7 @@
 # Dokumentenverwaltung
 
 ## Umschulung 2022 FI-AE - LuG Akademy
-## Aufgabe:
+### Aufgabe:
 
 Die Dokumentenablage einer Behörde muss neu geregelt werden. Hierzu
 soll eine neue Anwendung geschrieben werden, welche die Möglichkeit

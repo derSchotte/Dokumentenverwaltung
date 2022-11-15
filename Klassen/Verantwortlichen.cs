@@ -1,4 +1,8 @@
 ﻿namespace Dokumentenverwaltung.Klassen {
+    // Entwickeln Sie eine Klasse für den Verantwortlichen mit
+    // folgenden Informationen:
+    // Name, Büronummer, Abteilung
+
     internal class Verantwortlichen {
         string vorname;
         string nachname;

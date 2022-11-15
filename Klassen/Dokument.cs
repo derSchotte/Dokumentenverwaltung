@@ -1,4 +1,9 @@
 ﻿namespace Dokumentenverwaltung.Klassen {
+    // Entwickeln Sie eine Klasse für ein Dokument mit folgenden
+    // Informationen:
+    // DokumentenNr, Datum der Erstellung, Ablageort,
+    // Verantwortlicher, Kurzbeschreibung des Inhalts
+
     internal class Dokument {
         int dokumentenNummer;
         DateOnly erstelltDatum;

@@ -1,4 +1,8 @@
 ﻿namespace Dokumentenverwaltung {
+    // Erstellen Sie ein Menü, mit dem der Anwender das Dokument
+    // anhand seiner Nummer wählen kann und dann alle relevanten
+    // Informationen angezeigt bekommt.
+
     internal class Menu {
         public static void MainMenu() {
             int eingabe;
