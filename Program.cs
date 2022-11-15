@@ -1,1 +1,3 @@
-﻿
+﻿using Dokumentenverwaltung;
+
+Menu.MainMenu();
